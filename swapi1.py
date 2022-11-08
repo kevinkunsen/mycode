@@ -24,6 +24,7 @@ def main():
         pprint(vader)
 
     else:
+        print(resp)  
         print("That is not a valid URL.")
 
 if __name__ == "__main__":
